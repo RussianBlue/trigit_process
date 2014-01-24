@@ -1,0 +1,355 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"app",
+				"application"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/RussianBlue/Desktop/play/backup/trigit_board/conf/application.conf",
+			"settings":
+			{
+				"buffer_size": 1703,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/RussianBlue/Desktop/play/backup/trigit_board/project/Build.scala",
+			"settings":
+			{
+				"buffer_size": 450,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inta",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 417.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/RussianBlue/Desktop/play/trigit_process/build.sbt",
+		"/Users/RussianBlue/Desktop/play/trigit_process/conf/application.conf",
+		"/Users/RussianBlue/Desktop/play/backup/trigit_board/project/plugins.sbt",
+		"/Users/RussianBlue/Desktop/play/trigit_process/project/build.properties",
+		"/Users/RussianBlue/Desktop/rails/trigit_process/app/views/layouts/_navigation.html.slim",
+		"/Users/RussianBlue/Desktop/rails/trigit_process/app/views/devise/registrations/new.html.erb",
+		"/Users/RussianBlue/Desktop/rails/trigit_process/app/views/layouts/_sidebar.html.slim",
+		"/Users/RussianBlue/Desktop/rails/trigit_process/app/views/layouts/application.html.slim",
+		"/Users/RussianBlue/Desktop/rails/trigit_process/app/views/users/index.html.slim",
+		"/Users/RussianBlue/Desktop/rails/trigit_process/app/views/users/show.html.slim",
+		"/Users/RussianBlue/Desktop/rails/trigit_process/app/controllers/registrations_controller.rb",
+		"/Users/RussianBlue/Desktop/rails/trigit_process/app/views/home/index.html.slim",
+		"/Users/RussianBlue/Desktop/rails/trigit_process/app/views/devise/registrations/edit.html.slim",
+		"/Users/RussianBlue/Desktop/play/backup/trigit_board/app/views/main.scala.html",
+		"/Users/RussianBlue/Desktop/play/backup/trigit_board/app/views/admin/new_user.scala.html",
+		"/Users/RussianBlue/Desktop/rails/trigit_process/app/views/devise/registrations/new.html.slim",
+		"/Users/RussianBlue/Desktop/rails/trigit_process/app/views/devise/sessions/new.html.slim",
+		"/Users/RussianBlue/Desktop/rails/trigit_process/app/assets/stylesheets/application.css.scss",
+		"/Users/RussianBlue/Desktop/rails/trigit_process/app/assets/stylesheets/framework_and_overrides.css.scss",
+		"/Users/RussianBlue/Desktop/play/trigit_process/app/views/login.scala.html",
+		"/Users/RussianBlue/Desktop/rails/trigit_process/public/css/index.less",
+		"/Users/RussianBlue/Desktop/play/backup/trigit_board/app/views/products/product_list.scala.html",
+		"/Users/RussianBlue/Desktop/rails/trigit_process/app/assets/javascripts/application.js",
+		"/Users/RussianBlue/Desktop/rails/trigit_process/config/environments/production.rb",
+		"/Users/RussianBlue/Desktop/rails/trigit_process/config/application.rb",
+		"/Users/RussianBlue/Desktop/rails/trigit_process/app/assets/stylesheets/home.css.scss",
+		"/Users/RussianBlue/Desktop/rails/trigit_process/app/helpers/application_helper.rb",
+		"/Users/RussianBlue/Desktop/rails/trigit_process/public/assets/css/less/ace-nav.less",
+		"/Users/RussianBlue/Desktop/rails/trigit_process/public/assets/css/application.less",
+		"/Users/RussianBlue/Desktop/rails/trigit_process/public/javascript/less.js",
+		"/Users/RussianBlue/Desktop/play/trigit_process/public/stylesheets/styles.less",
+		"/Users/RussianBlue/Dropbox/with_rb/_labs_/rails/users.rb",
+		"/Users/RussianBlue/Desktop/rails/trigit_process/app/models/user.rb",
+		"/Users/RussianBlue/Desktop/rails/trigit_process/app/views/layouts/_navigation_links.html.erb",
+		"/Users/RussianBlue/Desktop/rails/trigit_process/app/test.rb",
+		"/Users/RussianBlue/Dropbox/with_rb/_labs_/rails/board_posts.rb",
+		"/Users/RussianBlue/Desktop/rails/trigit_process/app/views/home/index.html.haml",
+		"/Users/RussianBlue/Desktop/rails/trigit_process/config/routes.rb",
+		"/Users/RussianBlue/Desktop/rails/trigit_process/app/controllers/home_controller.rb",
+		"/Users/RussianBlue/Desktop/rails/trigit_process/config/application.yml",
+		"/Users/RussianBlue/Desktop/rails/trigit_process/.bundle/config",
+		"/Users/RussianBlue/Desktop/rails/trigit_process/config.ru",
+		"/Users/RussianBlue/Desktop/rails/trigit_process/app/views/devise/sessions/new.html.erb",
+		"/Users/RussianBlue/Desktop/Documents/Markdowns/install_ruby.md"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open files>",
+			"",
+			"== javascript_include_tag "
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".js\"></script>",
+			"<script src=",
+			"config.assets"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"== javascript_include_tag ",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/RussianBlue/Desktop/play/backup/trigit_board/conf/application.conf",
+					"settings":
+					{
+						"buffer_size": 1703,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1332,
+								1167
+							]
+						],
+						"settings":
+						{
+							"is_preview": true,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Play 2.0/configuration.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/RussianBlue/Desktop/play/backup/trigit_board/project/Build.scala",
+					"settings":
+					{
+						"buffer_size": 450,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								267,
+								267
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Scala/Scala.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"bu",
+				"build.sbt"
+			],
+			[
+				"build.",
+				"project/build.properties"
+			],
+			[
+				"app",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"help",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"production",
+				"config/environments/production.rb"
+			],
+			[
+				"index",
+				"public/css/index.less"
+			],
+			[
+				"ap",
+				"app/assets/stylesheets/application.css.scss"
+			],
+			[
+				"app.css",
+				"app/assets/stylesheets/application.css.scss"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"con",
+				"config.ru"
+			],
+			[
+				"confi",
+				".bundle/config"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 381.0,
+	"status_bar_visible": true
+}

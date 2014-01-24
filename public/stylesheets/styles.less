@@ -1,0 +1,147 @@
+@font-face {
+  font-family: 'Nanum Brush Script';
+  font-style: normal;
+  font-weight: 400;
+  src: url(//themes.googleusercontent.com/static/fonts/earlyaccess/nanumbrushscript/v2/NanumBrushScript-Regular.eot);
+  src: url(//themes.googleusercontent.com/static/fonts/earlyaccess/nanumbrushscript/v2/NanumBrushScript-Regular.eot?#iefix) format('embedded-opentype'),
+       url(//themes.googleusercontent.com/static/fonts/earlyaccess/nanumbrushscript/v2/NanumBrushScript-Regular.woff2) format('woff2'),
+       url(//themes.googleusercontent.com/static/fonts/earlyaccess/nanumbrushscript/v2/NanumBrushScript-Regular.woff) format('woff'),
+       url(//themes.googleusercontent.com/static/fonts/earlyaccess/nanumbrushscript/v2/NanumBrushScript-Regular.ttf) format('truetype');
+}
+
+//페이지 타이틀 색상
+@dark_blue: #FF3300;
+@dark_blue2: #003366;
+@light_green:#94ED89;
+@light_pupple:#003366;
+
+body{
+    font-family:'나눔고딕', NanumGothic, '굴림', 'Gulim', 'sans-serif', 'Tahoma';
+    background: #FFFFFF;
+}
+
+div, a, label, span, p, h1, h2, h3, h4, h5, h6, td, th, tr{
+    font-family:'나눔고딕', NanumGothic, '굴림', 'Gulim', 'sans-serif', 'Tahoma';
+}
+
+div.page-header {
+   padding-top:30px; 
+}
+
+span.text-yellow{
+    color:@dark_blue;
+}
+
+span.text-light{
+    color:@dark_blue2;
+}
+
+p.text-warning.user_id{
+    line-height: 30px;
+    padding-left: 10px;
+}
+
+div.page-header{
+    h1{
+        font-weight: bold;
+    }
+}
+
+div.form-group{
+    label{
+        font-size:1.2em;
+        i{
+            font-weight: bold;
+        }
+    }
+}
+
+#board-body{
+    padding: 20px;
+    border-radius: 10px;
+
+    div.board-header{
+        border-radius: 5px;
+        h4.board-header{
+            padding:15px;
+        }
+    }
+
+    div.board-read-header{
+        small.small-right{
+            float: right;
+            padding: 5px;
+        }
+        h4.board-header{
+        }
+    }
+
+    div.board-read-summary{
+        padding:10px 20px 10px 0px;
+    }
+
+    div.board-read-body{
+        padding:10px 0px 10px 0px;
+    }
+
+    form#board_create{
+        padding-top:10px;
+    }
+
+    td.read-td-naming{
+        font-weight: bold;
+        text-align: center;
+    }
+}
+
+pre{    
+    border:0px;
+    color:#CCCCCC;
+}
+
+div.add-product{           
+    padding:10px;
+}
+
+div#product{
+    table td{
+        text-align: center;
+    }
+}
+
+span.help-block{
+    color:@light_pupple;
+}
+
+/* 하단 버튼 셋트 */
+div.btn-ctrl-set{
+    text-align: right;
+    padding-top:10px;
+    padding-bottom:30px;
+}
+
+div.position-right{
+    text-align: right;
+}
+
+/* 페이지 네비게이션 */
+div.board-pagenavigation{
+    text-align: center;
+    padding-bottom:30px;
+}
+
+p.default-line{
+    height:1px;
+    width:100%;    
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+/* board */
+div.board-save{
+    text-align: right;
+}
+
+span.glyphicon.glyphicon-save.btn-download{
+    cursor:pointer;
+}
