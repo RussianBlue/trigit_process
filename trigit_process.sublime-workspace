@@ -4,8 +4,36 @@
 		"selected_items":
 		[
 			[
+				"user",
+				"user_id"
+			],
+			[
+				"lo",
+				"Logger"
+			],
+			[
 				"find",
-				"findAll"
+				"findByUserId"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"st",
+				"static"
+			],
+			[
+				"re",
+				"Required"
+			],
+			[
+				"use",
+				"user_id"
 			],
 			[
 				"pa",
@@ -20,19 +48,10 @@
 	"buffers":
 	[
 		{
-			"file": "app/views/projects/group.scala.html",
-			"settings":
-			{
-				"buffer_size": 1,
-				"line_ending": "Unix",
-				"name": "@(group: String, projects: List[Project])"
-			}
-		},
-		{
 			"file": "app/views/login.scala.html",
 			"settings":
 			{
-				"buffer_size": 10857,
+				"buffer_size": 7534,
 				"line_ending": "Unix"
 			}
 		},
@@ -62,6 +81,22 @@
 			}
 		},
 		{
+			"file": "app/controllers/Application.java",
+			"settings":
+			{
+				"buffer_size": 1746,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "conf/META-INF/persistence.xml",
+			"settings":
+			{
+				"buffer_size": 683,
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "build.sbt",
 			"settings":
 			{
@@ -70,27 +105,10 @@
 			}
 		},
 		{
-			"file": "conf/META-INF/persistence.xml",
+			"file": "project/plugins.sbt",
 			"settings":
 			{
-				"buffer_size": 744,
-				"line_ending": "Unix",
-				"name": "<persistence xmlns=\"http://java.sun.com/xml/ns/per"
-			}
-		},
-		{
-			"file": "app/views/main.scala.html",
-			"settings":
-			{
-				"buffer_size": 462,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/controllers/Application.java",
-			"settings":
-			{
-				"buffer_size": 1672,
+				"buffer_size": 296,
 				"line_ending": "Unix"
 			}
 		},
@@ -103,10 +121,34 @@
 			}
 		},
 		{
-			"file": "project/project/target/config-classes/$b5b00fb817b858791099.cache",
+			"file": "app/models/User.java",
 			"settings":
 			{
-				"buffer_size": 26,
+				"buffer_size": 1874,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/RussianBlue/Desktop/play/backup/trigit_board/conf/application.conf",
+			"settings":
+			{
+				"buffer_size": 1703,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/stylesheets/main.css",
+			"settings":
+			{
+				"buffer_size": 76,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/stylesheets/main.less",
+			"settings":
+			{
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		}
@@ -114,9 +156,13 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 147.0,
+		"height": 392.0,
 		"selected_items":
 		[
+			[
+				"inta",
+				"Package Control: Install Package"
+			],
 			[
 				"insta",
 				"Package Control: Install Package"
@@ -127,10 +173,6 @@
 			],
 			[
 				"ins",
-				"Package Control: Install Package"
-			],
-			[
-				"inta",
 				"Package Control: Install Package"
 			],
 			[
@@ -163,13 +205,18 @@
 	},
 	"file_history":
 	[
-		"/Users/RussianBlue/Desktop/play/trigit_process/app/models/User.java",
+		"/Users/RussianBlue/Desktop/play/trigit_process/app/views/main.scala.html",
+		"/Users/RussianBlue/Desktop/play/trigit_process/app/views/projects/group.scala.html",
+		"/Users/RussianBlue/Desktop/play/trigit_process/build.sbt",
+		"/Users/RussianBlue/Desktop/play/trigit_process/conf/META-INF/persistence.xml",
+		"/Users/RussianBlue/Desktop/play/trigit_process/project/project/target/config-classes/$b5b00fb817b858791099.cache",
+		"/Users/RussianBlue/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/Users/RussianBlue/Desktop/play/backup/trigit_board/app/views/signup/login.scala.html",
 		"/Users/RussianBlue/Desktop/play/trigit_process/conf/META-INF",
 		"/Users/RussianBlue/Desktop/play/trigit_process/app/views/login.scala.html",
 		"/Users/RussianBlue/Desktop/play/trigit_process/app/views/index.scala.html",
+		"/Users/RussianBlue/Desktop/play/trigit_process/app/models/User.java",
 		"/Users/RussianBlue/Desktop/play/trigit_process/conf/routes",
-		"/Users/RussianBlue/Desktop/play/trigit_process/build.sbt",
 		"/Users/RussianBlue/Desktop/play/trigit_process/project/build.properties",
 		"/Users/RussianBlue/Desktop/play/trigit_process/project/plugins.sbt",
 		"/Users/RussianBlue/Desktop/play/trigit_process/conf/application.conf",
@@ -259,59 +306,27 @@
 	"groups":
 	[
 		{
-			"selected": 6,
+			"selected": 4,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "app/views/projects/group.scala.html",
-					"settings":
-					{
-						"buffer_size": 1,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"auto_name": "@(group: String, projects: List[Project])",
-							"is_preview": true,
-							"origin_encoding": "ASCII",
-							"syntax": "Packages/Play 2.0/Play-Scala-Template.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "app/views/login.scala.html",
 					"settings":
 					{
-						"buffer_size": 10857,
+						"buffer_size": 7534,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5519,
-								5519
+								2209,
+								2225
 							]
 						],
 						"settings":
 						{
-							"is_preview": true,
 							"origin_encoding": "UTF-8",
 							"syntax": "Packages/Play 2.0/Play-Scala-Template.tmLanguage",
 							"tab_size": 4,
@@ -324,7 +339,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 1,
 					"file": "app/controllers/Secured.java",
 					"settings":
 					{
@@ -342,7 +357,6 @@
 						"settings":
 						{
 							"auto_name": "package controllers;",
-							"is_preview": true,
 							"origin_encoding": "ASCII",
 							"syntax": "Packages/Java/Java.tmLanguage",
 							"tab_size": 4,
@@ -355,7 +369,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 2,
 					"file": "conf/routes",
 					"settings":
 					{
@@ -366,13 +380,12 @@
 						"selection":
 						[
 							[
-								504,
-								504
+								747,
+								763
 							]
 						],
 						"settings":
 						{
-							"is_preview": true,
 							"origin_encoding": "ASCII",
 							"syntax": "Packages/Play 2.0/Play-Routes.tmLanguage"
 						},
@@ -383,7 +396,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 3,
 					"file": "conf/application.conf",
 					"settings":
 					{
@@ -394,13 +407,12 @@
 						"selection":
 						[
 							[
-								1497,
-								1165
+								1263,
+								1263
 							]
 						],
 						"settings":
 						{
-							"is_preview": true,
 							"origin_encoding": "ASCII",
 							"syntax": "Packages/Play 2.0/configuration.tmLanguage"
 						},
@@ -411,52 +423,52 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "build.sbt",
+					"buffer": 4,
+					"file": "app/controllers/Application.java",
 					"settings":
 					{
-						"buffer_size": 269,
+						"buffer_size": 1746,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								268,
-								0
+								525,
+								525
 							]
 						],
 						"settings":
 						{
-							"is_preview": true,
-							"origin_encoding": "ASCII",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 30.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 5,
 					"file": "conf/META-INF/persistence.xml",
 					"settings":
 					{
-						"buffer_size": 744,
+						"buffer_size": 683,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								660,
-								664
+								258,
+								258
 							]
 						],
 						"settings":
 						{
-							"auto_name": "<persistence xmlns=\"http://java.sun.com/xml/ns/per",
 							"origin_encoding": "ASCII",
 							"syntax": "Packages/XML/XML.tmLanguage",
 							"tab_size": 4,
@@ -467,33 +479,27 @@
 						"zoom_level": 1.0
 					},
 					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 0,
-			"sheets":
-			[
+				},
 				{
-					"buffer": 7,
-					"file": "app/views/main.scala.html",
+					"buffer": 6,
+					"file": "build.sbt",
 					"settings":
 					{
-						"buffer_size": 462,
+						"buffer_size": 269,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								442,
-								442
+								235,
+								235
 							]
 						],
 						"settings":
 						{
-							"origin_encoding": "UTF-8",
-							"syntax": "Packages/Play 2.0/Play-Scala-Template.tmLanguage"
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -502,19 +508,52 @@
 					"type": "text"
 				},
 				{
-					"buffer": 8,
-					"file": "app/controllers/Application.java",
+					"buffer": 7,
+					"file": "project/plugins.sbt",
 					"settings":
 					{
-						"buffer_size": 1672,
+						"buffer_size": 296,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								170,
-								170
+								192,
+								192
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 8,
+					"file": "app/controllers/Projects.java",
+					"settings":
+					{
+						"buffer_size": 774,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								637,
+								637
 							]
 						],
 						"settings":
@@ -533,25 +572,82 @@
 				},
 				{
 					"buffer": 9,
-					"file": "app/controllers/Projects.java",
+					"file": "app/models/User.java",
 					"settings":
 					{
-						"buffer_size": 774,
+						"buffer_size": 1874,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								198,
-								198
+								757,
+								757
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 153.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/Users/RussianBlue/Desktop/play/backup/trigit_board/conf/application.conf",
+					"settings":
+					{
+						"buffer_size": 1703,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1332,
+								1167
 							]
 						],
 						"settings":
 						{
 							"is_preview": true,
 							"origin_encoding": "ASCII",
-							"syntax": "Packages/Java/Java.tmLanguage",
+							"syntax": "Packages/Play 2.0/configuration.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "public/stylesheets/main.css",
+					"settings":
+					{
+						"buffer_size": 76,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								74,
+								74
+							]
+						],
+						"settings":
+						{
+							"is_preview": true,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
@@ -562,11 +658,11 @@
 					"type": "text"
 				},
 				{
-					"buffer": 10,
-					"file": "project/project/target/config-classes/$b5b00fb817b858791099.cache",
+					"buffer": 12,
+					"file": "public/stylesheets/main.less",
 					"settings":
 					{
-						"buffer_size": 26,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
@@ -581,7 +677,7 @@
 						{
 							"is_preview": true,
 							"origin_encoding": "ASCII",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/LESS/LESS.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -644,6 +740,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"projec",
+				"app/controllers/Projects.java"
+			],
 			[
 				"bu",
 				"build.sbt"
