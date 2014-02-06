@@ -5,10 +5,13 @@
 # Home page
 GET     /                           controllers.Projects.index()
 
+# Signup
+GET     /signup                     controllers.UserApp.SignUp()
+
 # Authentication
-GET     /login                              controllers.Application.login()
-POST    /login                              controllers.Application.authenticate()
-GET     /logout                             controllers.Application.logout()
+GET     /login                              controllers.UserApp.login()
+POST    /login                              controllers.UserApp.authenticate()
+GET     /logout                             controllers.UserApp.logout()
 
 # Projects
 POST    /projects                           controllers.Projects.add()

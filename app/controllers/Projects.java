@@ -20,10 +20,10 @@ public class Projects extends Controller {
   
     /**
      * Display the dashboard.
-     */
-    public static Result index() {
+     */    
+    public static Result index() {        
         return ok(
-            
+            dashboard.render("test", User.findByUserId(request().username()))
         );
     }
 

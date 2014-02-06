@@ -6,9 +6,9 @@ libraryDependencies ++= Seq(
   javaJdbc,
   javaEbean,
   cache,
-  javaJpa,
-  "mysql" % "mysql-connector-java" % "5.1.18",
-  "org.hibernate" % "hibernate-entitymanager" % "4.2.2.Final"
+  "mysql" % "mysql-connector-java" % "5.1.18"
 )
+
+play.Keys.lessEntryPoints <<= baseDirectory(_ / "app" / "assets" / "stylesheets" ** "main.less")
 
 play.Project.playJavaSettings
